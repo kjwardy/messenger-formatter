@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Jack Bloggs"
+    },
+    {
+      "name": "Joe Mamma"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack Bloggs",
+      "timestamp_ms": 1757610007701,
+      "content": "Am in disco now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joe Mamma",
+      "timestamp_ms": 1757607567986,
+      "content": "Oh damn, did you see the lightning?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Boys: Summer Edition",
+  "is_still_participant": true,
+  "thread_path": "inbox/theboyssummeredition_123456789",
+  "magic_words": [],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/123456789_9876543212345678_9987654321234567890_n_1914191219451983.png",
+    "creation_timestamp": 1757363329
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
